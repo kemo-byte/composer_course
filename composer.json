@@ -8,6 +8,9 @@
         },
         "files":[
             "app/functions.php"
+        ],
+        "classmap":[
+            "app/classes"
         ]
     }
 }
