@@ -106,6 +106,7 @@ class ComposerStaticInit6a2c5aaf76a7ae28016b85d1b2ffaefb
     );
 
     public static $classMap = array (
+        'Any\\Class3' => __DIR__ . '/../..' . '/app/classes/SubFolder/Class3.php',
         'Attribute' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
         'Class1' => __DIR__ . '/../..' . '/app/classes/Class1.php',
         'Class2' => __DIR__ . '/../..' . '/app/classes/Class2.php',

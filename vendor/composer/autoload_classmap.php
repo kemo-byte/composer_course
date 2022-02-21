@@ -6,6 +6,7 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Any\\Class3' => $baseDir . '/app/classes/SubFolder/Class3.php',
     'Attribute' => $vendorDir . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
     'Class1' => $baseDir . '/app/classes/Class1.php',
     'Class2' => $baseDir . '/app/classes/Class2.php',
