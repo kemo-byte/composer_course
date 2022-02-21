@@ -6,6 +6,6 @@ class User
 {
     public function __construct()
     {
-        echo "User Model";
+        echo "User Model <br />";
     }
 }
