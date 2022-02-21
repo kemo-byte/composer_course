@@ -12,5 +12,6 @@ echo ConcatString('kamal ', 'kafi');
 echo "<br />";
 
 $class1 = new Class1();
-$class2 = new Class2();
 $class2 = new Any\Class3();
+$class2 = new Class2();
+
